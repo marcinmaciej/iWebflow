@@ -1,0 +1,251 @@
+{
+	"DesktopTable":
+	{
+		"DTRow00":
+		{
+			"Uklad": "12"
+		}
+	},
+	"WidgetList":
+	{
+		"WidgetBox01":
+		{
+			"WBTitleFormat": "h5",
+			"WBTitle": "Moja lista",
+			"WBHeader": "widget-header-large",
+			"WBStyle": "",
+			"WB_X": "middle",
+			"WB_Y": "0",
+			"WBBodyPadding": "padding-4",
+			"WBColor": "",
+			"WBTransparent": "",
+			"WBVisible": "true",
+			"WBCollapsed": "collapsed",
+			"WBFullscreen": "",
+			"WBBorder": "border-light",
+			"WBBodyRenderFunction": "DisplayHelloWorld",
+			"WBStdToolbar":
+			{
+
+				"fullscreen": { "icon": "ace-icon fa fa-expand", "type": "" },
+				"reload": { "icon": "", "type": "" },
+				"collapse": { "icon": "ace-icon fa fa-chevron-down", "type": "" },
+				"close": { "icon": "ace-icon fa fa-times", "type": "" }
+			},
+			"WBStdToolbarLeft":
+			{
+				"settings": { "icon": "ace-icon fa fa-bars", "type": "dropdown" }
+			},
+			"WBMenuList":
+			{
+				"WBSettingsList":
+				{
+					"Szeroki nagłówek": { "name": "widget-header", "value": "widget-header-large" },
+					"Wąski nagłówek": { "name": "widget-header", "value": "widget-header-small" },
+					"Płaski nagłówek": { "name": "widget-header", "value": "widget-header-flat" },
+					"Przezroczystość": { "name": "widget-box", "value": "transparent" },
+					"Krawędź": { "name": "widget-box", "value": "no-border" }
+				}
+			}
+		},
+		"WidgetBox02":
+		{
+			"WBTitleFormat": "h5",
+			"WBTitle": "Moje projekty",
+			"WBHeader": "widget-header-large",
+			"WBStyle": "",
+			"WB_X": "middle",
+			"WB_Y": "1",
+			"WBBodyPadding": "padding-4",
+			"WBColor": "",
+			"WBTransparent": "",
+			"WBVisible": "true",
+			"WBCollapsed": "collapsed",
+			"WBFullscreen": "",
+			"WBBorder": "border-light",
+			"WBBodyRenderFunction": "DisplayHelloWorld",
+			"WBStdToolbar":
+			{
+
+				"fullscreen": { "icon": "ace-icon fa fa-expand", "type": "" },
+				"reload": { "icon": "", "type": "" },
+				"collapse": { "icon": "ace-icon fa fa-chevron-down", "type": "" },
+				"close": { "icon": "ace-icon fa fa-times", "type": "" }
+			},
+			"WBStdToolbarLeft":
+			{
+				"settings": { "icon": "ace-icon fa fa-bars", "type": "dropdown" }
+			},
+			"WBMenuList":
+			{
+				"WBSettingsList":
+				{
+					"Szeroki nagłówek": { "name": "widget-header", "value": "widget-header-large" },
+					"Wąski nagłówek": { "name": "widget-header", "value": "widget-header-small" },
+					"Płaski nagłówek": { "name": "widget-header", "value": "widget-header-flat" },
+					"Przezroczystość": { "name": "widget-box", "value": "transparent" },
+					"Krawędź": { "name": "widget-box", "value": "no-border" }
+				}
+			}
+		},
+		"WidgetBox03":
+		{
+			"WBTitleFormat": "h5",
+			"WBTitle": "Alerty",
+			"WBHeader": "widget-header-large",
+			"WBStyle": "",
+			"WB_X": "left",
+			"WB_Y": "0",
+			"WBBodyPadding": "padding-4",
+			"WBColor": "",
+			"WBTransparent": "",
+			"WBVisible": "true",
+			"WBCollapsed": "collapsed",
+			"WBFullscreen": "",
+			"WBBorder": "border-light",
+			"WBBodyRenderFunction": "DisplayHelloWorld",
+			"WBStdToolbar":
+			{
+
+				"fullscreen": { "icon": "ace-icon fa fa-expand", "type": "" },
+				"reload": { "icon": "", "type": "" },
+				"collapse": { "icon": "ace-icon fa fa-chevron-down", "type": "" },
+				"close": { "icon": "ace-icon fa fa-times", "type": "" }
+			},
+			"WBStdToolbarLeft":
+			{
+				"settings": { "icon": "ace-icon fa fa-bars", "type": "dropdown" }
+			},
+			"WBMenuList":
+			{
+				"WBSettingsList":
+				{
+					"Szeroki nagłówek": { "name": "widget-header", "value": "widget-header-large" },
+					"Wąski nagłówek": { "name": "widget-header", "value": "widget-header-small" },
+					"Płaski nagłówek": { "name": "widget-header", "value": "widget-header-flat" },
+					"Przezroczystość": { "name": "widget-box", "value": "transparent" },
+					"Krawędź": { "name": "widget-box", "value": "no-border" }
+				}
+			}
+		},
+		"WidgetBox04":
+		{
+			"WBTitleFormat": "h5",
+			"WBTitle": "Komunikaty",
+			"WBHeader": "widget-header-large",
+			"WBStyle": "",
+			"WB_X": "right",
+			"WB_Y": "0",
+			"WBBodyPadding": "padding-4",
+			"WBColor": "",
+			"WBTransparent": "",
+			"WBVisible": "true",
+			"WBCollapsed": "collapsed",
+			"WBFullscreen": "",
+			"WBBorder": "border-light",
+			"WBBodyRenderFunction": "DisplayHelloWorld",
+			"WBStdToolbar":
+			{
+
+				"fullscreen": { "icon": "ace-icon fa fa-expand", "type": "" },
+				"reload": { "icon": "", "type": "" },
+				"collapse": { "icon": "ace-icon fa fa-chevron-down", "type": "" },
+				"close": { "icon": "ace-icon fa fa-times", "type": "" }
+			},
+			"WBStdToolbarLeft":
+			{
+				"settings": { "icon": "ace-icon fa fa-bars", "type": "dropdown" }
+			},
+			"WBMenuList":
+			{
+				"WBSettingsList":
+				{
+					"Szeroki nagłówek": { "name": "widget-header", "value": "widget-header-large" },
+					"Wąski nagłówek": { "name": "widget-header", "value": "widget-header-small" },
+					"Płaski nagłówek": { "name": "widget-header", "value": "widget-header-flat" },
+					"Przezroczystość": { "name": "widget-box", "value": "transparent" },
+					"Krawędź": { "name": "widget-box", "value": "no-border" }
+				}
+			}
+		},
+		"WidgetBox05":
+		{
+			"WBTitleFormat": "h5",
+			"WBTitle": "Kalendarz",
+			"WBHeader": "widget-header-large",
+			"WBStyle": "",
+			"WB_X": "right",
+			"WB_Y": "1",
+			"WBBodyPadding": "",
+			"WBColor": "",
+			"WBTransparent": "",
+			"WBVisible": "true",
+			"WBCollapsed": "",
+			"WBFullscreen": "",
+			"WBBorder": "border-light",
+			"WBBodyRenderFunction": "DisplayHelloWorld",
+			"WBStdToolbar":
+			{
+
+				"fullscreen": { "icon": "ace-icon fa fa-expand", "type": "" },
+				"reload": { "icon": "", "type": "" },
+				"collapse": { "icon": "ace-icon fa fa-chevron-up", "type": "" },
+				"close": { "icon": "ace-icon fa fa-times", "type": "" }
+			},
+			"WBStdToolbarLeft":
+			{
+				"settings": { "icon": "ace-icon fa fa-bars", "type": "dropdown" }
+			},
+			"WBMenuList":
+			{
+				"WBSettingsList":
+				{
+					"Szeroki nagłówek": { "name": "widget-header", "value": "widget-header-large" },
+					"Wąski nagłówek": { "name": "widget-header", "value": "widget-header-small" },
+					"Płaski nagłówek": { "name": "widget-header", "value": "widget-header-flat" },
+					"Przezroczystość": { "name": "widget-box", "value": "transparent" },
+					"Krawędź": { "name": "widget-box", "value": "no-border" }
+				}
+			}
+		},
+		"WidgetBox06":
+		{
+			"WBTitleFormat": "h5",
+			"WBTitle": "Karta pracy",
+			"WBHeader": "widget-header-large",
+			"WBStyle": "",
+			"WB_X": "middle",
+			"WB_Y": "2",
+			"WBBodyPadding": "padding-4",
+			"WBColor": "",
+			"WBTransparent": "",
+			"WBVisible": "true",
+			"WBCollapsed": "collapsed",
+			"WBFullscreen": "",
+			"WBBorder": "border-light",
+			"WBBodyRenderFunction": "DisplayHelloWorld",
+			"WBStdToolbar":
+			{
+				"fullscreen": { "icon": "ace-icon fa fa-expand", "type": "" },
+				"reload": { "icon": "", "type": "" },
+				"collapse": { "icon": "ace-icon fa fa-chevron-down", "type": "" },
+				"close": { "icon": "ace-icon fa fa-times", "type": "" }
+			},
+			"WBStdToolbarLeft":
+			{
+				"settings": { "icon": "ace-icon fa fa-bars", "type": "dropdown" }
+			},
+			"WBMenuList":
+			{
+				"WBSettingsList":
+				{
+					"Szeroki nagłówek": { "name": "widget-header", "value": "widget-header-large" },
+					"Wąski nagłówek": { "name": "widget-header", "value": "widget-header-small" },
+					"Płaski nagłówek": { "name": "widget-header", "value": "widget-header-flat" },
+					"Przezroczystość": { "name": "widget-box", "value": "transparent" },
+					"Krawędź": { "name": "widget-box", "value": "no-border" }
+				}
+			}
+		}
+	}
+}

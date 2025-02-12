@@ -1,0 +1,140 @@
+html {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+body {
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+}
+
+.jsGridHeader {
+    font-size: 0.7em;
+     text-wrap:normal;
+      overflow:hidden;
+}
+
+.jsGridCell {
+    font-size: 0.6em;
+     text-wrap:normal;
+     padding:1px;
+      overflow:hidden;
+}
+
+@media(min-width:768px) {
+    body {
+        font-size: 16px;
+    }
+
+    .jsGridHeader {
+        font-size: 0.8em;
+         text-wrap:normal;
+    }
+
+    .jsGridCell {
+        font-size: 0.8em;
+        text-wrap:normal;
+        padding:5px !important;
+        
+    }
+}
+
+.container-desktop {
+    margin-top: 28px;
+    padding: 0;
+}
+
+@media (min-width:768px) {
+    .container-desktop {
+        margin-top: 8px;
+    }
+
+    .dropdown-menu > li > a {
+        font-size: 13px;
+    }
+
+    .form-horizontal .form-group-sm .control-label {
+        font-size: 15px;
+        padding-top: 5px;
+    }
+}
+
+.widget-box {
+    overflow: hidden;
+}
+
+.widget-container-col {
+    min-height: 50px;
+}
+
+@media (min-width:768px) {
+    .col-right {
+        border-left: 1px solid #1995dc; /* #1995dc;*/
+        border-bottom-width: thin;
+    }
+
+    .col-left {
+        border-right: 1px solid #1995dc; /* #d8d0d0*/
+        border-bottom-width: thin;
+    }
+}
+
+.widget-menu > a > i { /*ZEBY IKONKI SIE LADNIE WYSWIETLAY NIE ZA BLISKO SIEBIE W WIDGET HEADER*/
+    padding: 4px;
+}
+
+
+@media (min-width:768px) {
+    .widget-menu > a > i { /*ZEBY IKONKI SIE LADNIE WYSWIETLAY NIE ZA BLISKO SIEBIE W WIDGET HEADER*/
+        padding: 0 0 2px 0;
+    }
+}
+
+.toolbar-left {
+    float: left !important;
+}
+
+    .toolbar-left:before {
+        border-width: 0;
+        border: 0;
+    }
+
+    .toolbar-left:after {
+        display: inline-block;
+        content: "";
+        position: absolute;
+        top: 3px;
+        bottom: 3px;
+        left: 35px;
+        border: 1px solid #D9D9D9;
+        border-width: 0 1px 0 0;
+    }
+
+.col-left, .col-right, .col-middle {
+    padding-top: 5px;
+}
+
+#scrollContainer {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+
+#mainScrollContainer {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+
+.global-event {
+    background-color: rgb(83, 175, 215);
+}
+
+.user-event {
+    background-color: rgb(169, 215, 83);
+}

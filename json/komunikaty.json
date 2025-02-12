@@ -1,0 +1,26 @@
+{
+	"komunikaty":
+	{
+		"komunikat01":
+		{
+			"header": "Komunikat 1",
+			"content": "Treść komunikatu 1."
+		},
+		"komunikat02":
+		{
+			"header": "Komunikat 2",
+			"content": "Treść komunikatu 2."
+		},
+		"komunikat03":
+		{
+			"header": "Komunikat 3",
+			"content": "Treść komunikatu 3."
+		},
+		"komunikat04":
+		{
+			"header": "Komunikat 4",
+			"content": "Treść komunikatu 4."
+		}
+	}
+
+}

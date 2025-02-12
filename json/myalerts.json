@@ -1,0 +1,22 @@
+{
+	"Alert01": {
+		"type": "r",
+		"content": "Zaraz spadnie ci coś na głowę!"
+	},
+	"Alert02": {
+		"type": "g",
+		"content": "Brawo udało ci się!"
+	},
+	"Alert03": {
+		"type": "b",
+		"content": "Tutaj wolno nic nie robić."
+	},
+	"Alert04": {
+		"type": "y",
+		"content": "Uwaga grozi zawałem!"
+	},
+	"Alert05": {
+		"type": "",
+		"content": "Nie wiadomo co to za alert."
+	}
+}
